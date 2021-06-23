@@ -1272,7 +1272,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/workplace.jpg") top center no-repeat;
+  background: url("../img/workplace.jpg") 25% 20% no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
